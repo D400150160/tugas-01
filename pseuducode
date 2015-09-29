@@ -1,0 +1,7 @@
+1.	Mulai
+2.	Input: a, b, c
+3.	d=sqrt(b*b-4*a*c)
+4.	x1=(-b+d)/2*a
+5.	x2=(-b-d)/2*a
+6.	output: x1,x2
+7.	selesai
